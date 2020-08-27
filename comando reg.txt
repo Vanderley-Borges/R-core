@@ -1,0 +1,8 @@
+
+https://www.youtube.com/watch?v=N3ZN-MRWuBE
+segments(blood.glucose, fitted(lm.velo), 
+blood.glucose, short.velocity)
+abline(lm(short.velocity~blood.glucose))
+
+
+https://www.youtube.com/watch?v=-di5FkGHK60
